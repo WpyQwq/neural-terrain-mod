@@ -1,0 +1,8 @@
+{"seed": 123456789, "x": 0, "z": 0, "surface_y": 72, "moisture": 0.70, "temperature": 0.55}
+{"seed": 123456789, "x": 256, "z": 0, "surface_y": 88, "moisture": 0.45, "temperature": 0.60}
+{"seed": 123456789, "x": 512, "z": 0, "surface_y": 64, "moisture": 0.80, "temperature": 0.48}
+{"seed": 123456789, "x": 0, "z": 256, "surface_y": 102, "moisture": 0.35, "temperature": 0.72}
+{"seed": 123456789, "x": 256, "z": 256, "surface_y": 76, "moisture": 0.62, "temperature": 0.58}
+{"seed": 987654321, "x": 0, "z": 0, "surface_y": 54, "moisture": 0.90, "temperature": 0.40}
+{"seed": 987654321, "x": 256, "z": 0, "surface_y": 116, "moisture": 0.28, "temperature": 0.78}
+{"seed": 987654321, "x": 0, "z": 256, "surface_y": 69, "moisture": 0.74, "temperature": 0.52}

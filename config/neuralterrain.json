@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "sea_level": 63,
+  "base_height": 68.0,
+  "height_amplitude": 46.0,
+  "beach_margin": 2,
+  "bedrock_layers": 2,
+  "generate_water": true,
+  "generate_neural_biomes": true,
+  "generate_neural_caves": true,
+  "disable_vanilla_carvers": true,
+  "generate_neural_decorations": true,
+  "generate_neural_ores": true,
+  "generate_neural_vegetation": true,
+  "generate_neural_structures": true,
+  "cave_threshold": 0.76,
+  "model_file": "neuralterrain-model.json"
+}
